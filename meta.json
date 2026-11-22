@@ -1,0 +1,9 @@
+{
+ "minzoom": 8,
+ "maxzoom": 13,
+ "format": "terrarium",
+ "quant_m": 0.25,
+ "source": "內政部地政司 2026 年版全臺灣 20 公尺網格數值地形模型",
+ "license": "政府資料開放授權條款－第1版",
+ "tiles": 2748
+}
